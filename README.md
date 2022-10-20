@@ -20,7 +20,7 @@ npm install ts-jest --save-dev
 npm install @types/jest --save-dev
 ```
 
-# How to execute code and unit test
+# How to test
 
 1. Navigate to project directory
 
